@@ -14,9 +14,11 @@ Ejecutar el archivo main.py
 
 Traduce de markdown a HTML y soporta los siguientes markups:
 
+```
 * Párrafos separados por lineas en blanco a tags <p>
 * Líneas que comienzan con # a tags <h1> ... <h6>
 * Línea sucedidas por una línea solo con el caracter '=' a tag <h1>
 * Texto entre doble '*' a tags <strong>
 * Texto entre comillas invertidas '`' a tags <code>
 * Texto entre guión bajo '_' a tags <em>
+```
